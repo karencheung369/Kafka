@@ -1,2 +1,2 @@
 # Kafka
-My Kafka Notes
+My Kafka setup steps.
